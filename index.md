@@ -1,8 +1,8 @@
 ## 老妈生日快乐
 
-You can use the [editor on GitHub](https://github.com/guoshanchezz/guoshanchezz.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+这是一个专属于我的妈妈的网站。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+里面只有属于我给妈妈的祝福
 
 ### Markdown
 
